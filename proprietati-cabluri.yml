@@ -1,0 +1,42 @@
+C5:
+  l_max: 500
+  baza_st: 11.75
+  baza_im: 46.5
+  baza_dr: 169.5
+  retinerea: 0.0866
+C2:
+  l_max: 185
+  baza_st: 11.75
+  baza_im: 46.5
+  baza_dr: 169.5
+  retinerea: 0.1026
+T:
+  l_max: 100
+  baza_st: 15.25
+  baza_im: 42
+  baza_dr: 165
+  retinerea: 0.113
+FB:
+  l_max: 2000
+  baza_st: 0
+  baza_im: 24
+  baza_dr: 0
+  retinerea: 0.1
+FL:
+  l_max: 2000
+  baza_st: 12.25
+  baza_im: 33.5
+  baza_dr: 156.5
+  retinerea: 0.1
+FP:
+  l_max: 1000
+  baza_st: 11.25
+  baza_im: 61
+  baza_dr: 183.5
+  retinerea: 0.1
+FO:
+  l_max: 1000
+  baza_st: 7.75
+  baza_im: 29
+  baza_dr: 152
+  retinerea: 0.1

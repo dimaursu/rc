@@ -1,0 +1,70 @@
+1:
+  tip: T
+  lungime: 100
+2:
+  tip: T
+  lungime: 80
+3:
+  tip: T
+  lungime: 90
+4:
+# acesta era prea lung 190
+  tip: C2
+  lungime: 180
+5:
+  tip: C5
+  lungime: 400
+6:
+  tip: T
+  lungime: 90
+7:
+  tip: T
+  lungime: 100
+8:
+  tip: T
+  lungime: 50
+9:
+  tip: C2
+  lungime: 150
+10:
+  tip: C5
+  lungime: 200
+11:
+  tip: T
+  lungime: 70
+12:
+  tip: T
+  lungime: 80
+13:
+  tip: T
+  lungime: 90
+14:
+  tip: T
+  lungime: 100
+15:
+  tip: T
+  lungime: 80
+16:
+  tip: C2
+  lungime: 170
+17:
+  tip: T
+  lungime: 80
+18:
+  tip: T
+  lungime: 90
+30:
+  tip: FO
+  lungime: 500
+31:
+  tip: FL
+  lungime: 700
+32:
+  tip: C2
+  lungime: 180
+33:
+  tip: C5
+  lungime: 400
+34:
+  tip: FB
+  lungime: 1500

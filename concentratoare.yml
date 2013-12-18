@@ -1,0 +1,42 @@
+1:
+  statii:
+    - 1
+    - 2
+    - 3
+  alt_concentrator: 5
+  ac_cablu: 30
+2:
+  statii:
+    - 4
+    - 5
+    - 6
+  alt_concentrator: 4
+  ac_cablu: 32
+3:
+  statii:
+    - 7
+    - 8
+    - 9
+  alt_concentrator: 2
+  ac_cablu: 31
+4:
+  statii:
+    - 10
+    - 11
+    - 12
+  alt_concentrator: 6
+  ac_cablu: 34
+5:
+  statii:
+    - 13
+    - 14
+    - 15
+  alt_concentrator: 4
+  ac_cablu: 33
+6:
+  statii:
+    - 16
+    - 17
+    - 18
+  alt_concentrator:
+  ac_cablu:

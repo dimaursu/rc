@@ -1,4 +1,6 @@
 rc
 ==
 
-Laboratoare la Rețele de Calculatoare, FAF-101, anul 4
+This program check the validity of a network with hubs and stations.  It checks
+the number of station in a network, length of the cables, the Path Delay Value
+(PDD) and Path Variability Value (PVV)
